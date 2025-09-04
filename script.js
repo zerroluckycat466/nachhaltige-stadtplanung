@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Module for supporting sustainable urban planning has been successfully loaded');
+    console.log('Sustainable urban planning module loaded successfully.');
     // Future functions can be added here
 });
