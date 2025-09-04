@@ -1,0 +1,14 @@
+{
+  "name": "nachhaltige-stadtplanung",
+  "version": "1.0.0",
+  "description": "Plattform für nachhaltige städtische Entwicklungsprojekte",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "author": "Ihr Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
