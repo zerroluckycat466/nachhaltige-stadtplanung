@@ -1,6 +1,6 @@
 {
   "name": "nachhaltige-stadtplanung",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plattform für nachhaltige städtische Entwicklungsprojekte",
   "main": "index.js",
   "scripts": {
